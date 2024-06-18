@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=iso-8859-1:León;Juan José;;;
+FN;CHARSET=iso-8859-1:Juan José León
+ORG:Claro & Cia.;
+TITLE;CHARSET=iso-8859-1:Socio
+TEL;TYPE=VOICE,WORK;VALUE=text:574 23673438
+EMAIL;TYPE=HOME,INTERNET,pref:jleon@claro.cl
+ADR;TYPE=WORK:;;Apoquindo 3721\, piso 14. Las Condes;Santiago;;7550177;Chile
+URL;TYPE=WORK:www.claro.cl
+END:VCARD

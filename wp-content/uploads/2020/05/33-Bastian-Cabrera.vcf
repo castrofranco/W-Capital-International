@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=iso-8859-1:Cabrera;Bastián;;;
+FN;CHARSET=iso-8859-1:Bastián Cabrera
+ORG:Claro & Cia.;
+TITLE;CHARSET=iso-8859-1:Asociado
+TEL;TYPE=VOICE,WORK;VALUE=text:593 23673613
+EMAIL;TYPE=HOME,INTERNET,pref:bcabrera@claro.cl
+ADR;TYPE=WORK:;;Apoquindo 3721\, piso 14. Las Condes;Santiago;;7550177;Chile
+URL;TYPE=WORK:www.claro.cl
+END:VCARD

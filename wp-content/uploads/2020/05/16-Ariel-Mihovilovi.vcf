@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=iso-8859-1:Mihovilovi;Ariel;;;
+FN;CHARSET=iso-8859-1:Ariel Mihovilovi
+ORG:Claro & Cia.;
+TITLE;CHARSET=iso-8859-1:Socio
+TEL;TYPE=VOICE,WORK;VALUE=text:577 23673085
+EMAIL;TYPE=HOME,INTERNET,pref:amihovilovic@claro.cl
+ADR;TYPE=WORK:;;Apoquindo 3721\, piso 14. Las Condes;Santiago;;7550177;Chile
+URL;TYPE=WORK:www.claro.cl
+END:VCARD

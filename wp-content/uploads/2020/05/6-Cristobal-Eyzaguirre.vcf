@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=iso-8859-1:Eyzaguirre;Cristóbal;;;
+FN;CHARSET=iso-8859-1:Cristóbal Eyzaguirre
+ORG:Claro & Cia.;
+TITLE;CHARSET=iso-8859-1:Socio
+TEL;TYPE=VOICE,WORK;VALUE=text:567 23673404
+EMAIL;TYPE=HOME,INTERNET,pref:cristobal.eyzaguirre@claro.cl
+ADR;TYPE=WORK:;;Apoquindo 3721\, piso 14. Las Condes;Santiago;;7550177;Chile
+URL;TYPE=WORK:www.claro.cl
+END:VCARD

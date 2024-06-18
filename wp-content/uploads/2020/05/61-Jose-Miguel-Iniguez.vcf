@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=iso-8859-1:Iñiguez;José Miguel;;;
+FN;CHARSET=iso-8859-1:José Miguel Iñiguez
+ORG:Claro & Cia.;
+TITLE;CHARSET=iso-8859-1:Asociado
+TEL;TYPE=VOICE,WORK;VALUE=text:621 23673618
+EMAIL;TYPE=HOME,INTERNET,pref:jminiguez@claro.cl
+ADR;TYPE=WORK:;;Apoquindo 3721\, piso 14. Las Condes;Santiago;;7550177;Chile
+URL;TYPE=WORK:www.claro.cl
+END:VCARD

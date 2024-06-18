@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=iso-8859-1:Carraha;Jorge;;;
+FN;CHARSET=iso-8859-1:Jorge Carraha
+ORG:Claro & Cia.;
+TITLE;CHARSET=iso-8859-1:Socio
+TEL;TYPE=VOICE,WORK;VALUE=text:564 23673471
+EMAIL;TYPE=HOME,INTERNET,pref:jcarraha@claro.cl
+ADR;TYPE=WORK:;;Apoquindo 3721\, piso 14. Las Condes;Santiago;;7550177;Chile
+URL;TYPE=WORK:www.claro.cl
+END:VCARD

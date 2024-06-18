@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ossa;Felipe;;;
+FN:Felipe Ossa
+ORG:Claro & Cia.;
+TITLE:Socio
+TEL;TYPE=VOICE,WORK;VALUE=text:580 23673059
+EMAIL;TYPE=HOME,INTERNET,pref:fossa@claro.cl
+ADR;TYPE=WORK:;;Apoquindo 3721\, piso 14. Las Condes;Santiago;;7550177;Chile
+URL;TYPE=WORK:www.claro.cl
+END:VCARD

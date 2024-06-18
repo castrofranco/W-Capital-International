@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=iso-8859-1:González;Paula Andrea;;;
+FN;CHARSET=iso-8859-1:Paula Andrea González
+ORG:Claro & Cia.;
+TITLE;CHARSET=iso-8859-1:Asociado
+TEL;TYPE=VOICE,WORK;VALUE=text:614 23673403
+EMAIL;TYPE=HOME,INTERNET,pref:pgonzalez@claro.cl
+ADR;TYPE=WORK:;;Apoquindo 3721\, piso 14. Las Condes;Santiago;;7550177;Chile
+URL;TYPE=WORK:www.claro.cl
+END:VCARD
